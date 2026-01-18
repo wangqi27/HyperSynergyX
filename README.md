@@ -72,14 +72,6 @@ To generate mechanistic explanations for a specific drug triplet (requires Neo4j
 python rag_explain.py --drugs "DrugA,DrugB,DrugC"
 ```
 
-## Citation
-
-If you use this code or framework in your research, please cite our paper:
-
-> **HyperSynergyX: Synergistic Drug Combination Prediction via Hypergraph Modeling and Knowledge Graph-Enhanced Retrieval-Augmented Generation**
-> *Qi Wang, Bingzheng Wu, Minglang Xu, Xiya Liu, Yiming Mao, Zhiheng Zhou, and Guiying Yan*
-> IEEE Journal of Biomedical and Health Informatics (JBHI), 2025.
-
 ## License
 
 This project is licensed under the MIT License.
